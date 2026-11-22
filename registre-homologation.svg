@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" rx="48" fill="#000091"/>
+  <!-- registre : lignes de liste -->
+  <g fill="#ffffff">
+    <rect x="56" y="64" width="20" height="20" rx="4"/>
+    <rect x="88" y="68" width="96" height="12" rx="6"/>
+    <rect x="56" y="104" width="20" height="20" rx="4"/>
+    <rect x="88" y="108" width="80" height="12" rx="6"/>
+    <rect x="56" y="144" width="20" height="20" rx="4"/>
+    <rect x="88" y="148" width="56" height="12" rx="6"/>
+  </g>
+  <!-- sceau d'homologation -->
+  <circle cx="176" cy="180" r="38" fill="#E1000F" stroke="#ffffff" stroke-width="8"/>
+  <path d="M158 180 l12 12 l24 -26" fill="none" stroke="#ffffff" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

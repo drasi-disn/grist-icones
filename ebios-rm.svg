@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256">
+  <rect width="256" height="256" rx="48" fill="#000091"/>
+  <!-- matrice de risque 3x3 gravité x vraisemblance -->
+  <g>
+    <rect x="56"  y="56"  width="44" height="44" rx="6" fill="#FCC63A"/>
+    <rect x="106" y="56"  width="44" height="44" rx="6" fill="#FF6F4C"/>
+    <rect x="156" y="56"  width="44" height="44" rx="6" fill="#E1000F"/>
+    <rect x="56"  y="106" width="44" height="44" rx="6" fill="#B8FEC9"/>
+    <rect x="106" y="106" width="44" height="44" rx="6" fill="#FCC63A"/>
+    <rect x="156" y="106" width="44" height="44" rx="6" fill="#FF6F4C"/>
+    <rect x="56"  y="156" width="44" height="44" rx="6" fill="#B8FEC9"/>
+    <rect x="106" y="156" width="44" height="44" rx="6" fill="#B8FEC9"/>
+    <rect x="156" y="156" width="44" height="44" rx="6" fill="#FCC63A"/>
+  </g>
+  <!-- risque positionné -->
+  <circle cx="178" cy="78" r="12" fill="#ffffff"/>
+</svg>
